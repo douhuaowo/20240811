@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":5,"characterName":"Player2","classId":5,"equips":[5,0,2,3,4],"faceIndex":0,"faceName":"touhou","traits":[],"initialLevel":1,"maxLevel":99,"name":"博麗靈夢","nickname":"博麗的巫女","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":5,"characterName":"Actor2","classId":3,"equips":[3,0,2,3,4],"faceIndex":2,"faceName":"touhou","traits":[],"initialLevel":1,"maxLevel":99,"name":"霧雨魔理沙","nickname":"普通魔法使","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":5,"characterName":"Actor3","classId":6,"equips":[9,1,2,3,4],"faceIndex":5,"faceName":"touhou","traits":[],"initialLevel":15,"maxLevel":99,"name":"蕾米莉亞·斯卡蕾特","nickname":"500歲的吸血鬼領主","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"Actor2","classId":10,"equips":[10,0,2,3,4],"faceIndex":3,"faceName":"touhou","traits":[],"initialLevel":10,"maxLevel":99,"name":"魂魄妖夢","nickname":"西行寺家的庭師","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":7,"characterName":"Actor3","classId":9,"equips":[6,1,2,3,4],"faceIndex":7,"faceName":"touhou","traits":[],"initialLevel":15,"maxLevel":99,"name":"古明地戀","nickname":"地靈主之妹","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":7,"characterName":"People2","classId":8,"equips":[7,0,0,3,0],"faceIndex":4,"faceName":"touhou","traits":[],"initialLevel":15,"maxLevel":99,"name":"鈴仙·優曇華院·因幡","nickname":"月面防衛隊的兔子兵","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":5,"characterName":"Actor3","classId":11,"equips":[8,0,2,3,0],"faceIndex":6,"faceName":"touhou","traits":[],"initialLevel":15,"maxLevel":99,"name":"芙蘭朵露·斯卡蕾特","nickname":"吸血鬼之妹","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":5,"characterName":"People3","classId":7,"equips":[6,0,2,3,0],"faceIndex":1,"faceName":"touhou","traits":[],"initialLevel":15,"maxLevel":99,"name":"十六夜咲夜","nickname":"紅魔館女僕長","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":5,"characterName":"People2","classId":12,"equips":[11,0,2,3,4],"faceIndex":1,"faceName":"touhou2","traits":[],"initialLevel":30,"maxLevel":99,"name":"八雲紫","nickname":"間隙妖怪","note":"","profile":""}
+]
